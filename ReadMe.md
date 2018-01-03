@@ -1,6 +1,4 @@
-README for DownloadFile.java
-Vimeo Coding Challenge
-By Monica Arbeit
+README for DownloadFile.java || Vimeo Coding Challenge || By Monica Arbeit
 
 A program for downloading a given file.
 
